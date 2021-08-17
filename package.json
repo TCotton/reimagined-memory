@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-nextjs-dynamic-imports",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prevents Next.JS dynamic imports being used  ",
   "keywords": [
     "eslint",
